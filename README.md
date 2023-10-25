@@ -22,5 +22,8 @@ Here are some ideas to get you started:
     <a href="https://datasoling.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>  
-    [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=SSolLEE&theme=default)](https://datasoling.tistory.com/)
+    <a href="https://datasoling.tistory.com/">
+        <img src="https://github-readme-tistory-card.vercel.app/api?name=SSolLEE&theme=default">
+    </a>
 </div><br>
+
