@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 💻 DEV's log 💻
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=datasoling&theme=kakao)](https://github.com/datasoling/github-readme-tistory-card)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=datasoling&theme=gatsby)](https://github.com/datasoling/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=datasoling&theme=tistory)](https://github.com/datasoling/github-readme-tistory-card)
 
 
 
