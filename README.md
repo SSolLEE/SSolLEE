@@ -23,8 +23,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
     <a href="https://datasoling.tistory.com/">
-        <img src="https://github-readme-tistory-card.vercel.app/api?name=SSolLEE&theme=default">
+        <img src="https://github-readme-tistory-card.vercel.app/api?name=datasoling&theme=default">
     </a>
 </div><br>
-
 
