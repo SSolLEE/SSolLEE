@@ -18,17 +18,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSolLEE&theme=transparent&show_icons=true&count_private=true)
 
 ## 💻 DEV's log 💻
-```
-<div style="display:flex; flex-direction: row;">
-    <a href="https://datasoling.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-    </a>
-    <a href="https://datasoling.tistory.com/">
-        <img src="https://github-readme-tistory-card.vercel.app/api?name=datasoling&theme=default">
-    </a>
-</div><br>
-```
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=datasoling&theme=kakao)](https://github.com/datasoling/github-readme-tistory-card)
+\n
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=datasoling&theme=gatsby)](https://github.com/datasoling/github-readme-tistory-card)
 
 
